@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "shelf"
+      "slider-layout#home"
+      //"shelf"
       //"flex-layout.row"
       //"rich-text",
       //"info-card#rethink"
