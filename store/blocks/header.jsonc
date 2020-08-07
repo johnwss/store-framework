@@ -1,18 +1,18 @@
 {
-        "header": {
-          "blocks": [
-            "header-layout.desktop",
-            "header-layout.mobile"
+    "header": {
+        "blocks": [
+        "header-layout.desktop",
+        "header-layout.mobile"
           ]
         },
-        "header.full": {
-          "blocks": [
+    "header.full": {
+        "blocks": [
             "header-layout.desktop",
             "header-layout.mobile"
           ]
         },
       
-        "header-layout.desktop": {
+    "header-layout.desktop": {
           "children": [
             "header-row#notification",
             "header-row#main"
@@ -20,12 +20,12 @@
         },
       
         "header-layout.mobile": {
-          "children": [
-            "header-row#notification",
-            "header-row#main-mobile",
-            "header-row#search"
-          ]
-        },    
+        "children": [
+        "header-row#notification",
+        "header-row#main-mobile",
+        "header-row#search"
+    ]
+},    
 
 
 "header-row#notification": {
@@ -44,10 +44,11 @@
       "minicart",
       "login"
     ],
+
     "props":{
-        "inverted":"true",
-        "sticky":"true",
-        "fullWidth":"false"
+        "inverted":true,
+        "sticky":true,
+        "fullWidth":false
     }
   },
 
