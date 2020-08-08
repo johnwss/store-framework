@@ -49,7 +49,7 @@
 
       "vtex.menu@2.x:menu#major":{
         "children":[
-          "menu-item#refrigerator",
+          "menu-item#refrigerators",
           "menu-item#ovens",
           "menu-item#washers"
         ],
